@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/9LkKSQUyUIkZHNDgNb/giphy.gif" width="100"/>
+  <img src="https://unsplash.com/photos/Im7lZjxeLhg" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/NikitaSoloveoff">
@@ -9,8 +9,6 @@
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=SolovevNS&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
-  <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+### :man_technologist:: Abount me :
+I am a Junior Data Scientist from Russia.
