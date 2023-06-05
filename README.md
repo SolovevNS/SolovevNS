@@ -29,11 +29,11 @@ Languages and Tools :
 
 My project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=predict-for-oil-production)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/SolovevNS/predict-for-oil-production))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=predict-for-oil-production)](https://github.com/SolovevNS/predict-for-oil-production)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=hotel-cancel-pred)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/SolovevNS/hotel-cancel-pred))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=hotel-cancel-pred)](https://github.com/SolovevNS/hotel-cancel-pred)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=housing-price-pred-spark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/SolovevNS/housing-price-pred-spark )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=housing-price-pred-spark)](https://github.com/SolovevNS/housing-price-pred-spark )
 
 ---
 
