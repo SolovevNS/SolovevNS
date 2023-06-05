@@ -1,5 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk2MDM1NGU1ZWM1Y2I2OGE4MGIzNzcxZDU1YjI5MzE5YTdhZWM2ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/dWesBcTLavkZuG35MI/giphy.gif" width="100"/>
+
+<h3 align="center">Hi there, I'm Nikita </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/></h1>
+<h3 align="center">Data science student from Russia 🇷🇺</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/NikitaSoloveoff">
@@ -9,12 +11,6 @@
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=SolovevNS&style=flat-square&color=blue" alt=""/>
 </div>
-
----
-
-<h3 align="center">Hi there, I'm Nikita </a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/></h1>
-<h3 align="center">Data science student from Russia 🇷🇺</h3>
 
 ---
 
@@ -40,6 +36,8 @@ My project:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=housing-price-pred-spark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/SolovevNS/housing-price-pred-spark )
 
 ---
+
+My stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea)](https://git.io/streak-stats)
 
