@@ -12,7 +12,13 @@
 
 ---
 
- Data Scientist
+<h3 align="center">Hi there, I'm Nikita </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/></h1>
+<h3 align="center">Data science student from Russia 🇷🇺</h3>
+
+---
+
+Languages and Tools :
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -25,7 +31,23 @@
 
 ---
 
+My project:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea&locale=ru)](https://git.io/streak-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=predict-for-oil-production)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/SolovevNS/predict-for-oil-production))
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&card_width=500px&layout=compact&theme=blue&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=hotel-cancel-pred)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/SolovevNS/hotel-cancel-pred))
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=housing-price-pred-spark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/SolovevNS/housing-price-pred-spark )
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&card_width=500px&layout=compact&theme=blue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolovevNS&theme=sea)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
