@@ -28,4 +28,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea&locale=ru)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&layout=compact&&theme=sea&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&card_width=500px&layout=compact&theme=blue&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
