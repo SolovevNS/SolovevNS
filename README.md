@@ -10,6 +10,8 @@
     <img src="https://komarev.com/ghpvc/?username=SolovevNS&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
  Data Scientist
  
 <div>
@@ -19,6 +21,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apachespark.svg" title="Apachespark" alt="Apachespark" width="40" height="40"/>&nbsp
- 
-  
 </div>
+
+---
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea&locale=ru)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&layout=compact&&theme=sea&locale=ru)](https://github.com/anuraghazra/github-readme-stats)
