@@ -1,6 +1,5 @@
 
-<h3 align="center">Hi there, I'm Nikita </a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/></h1>
+<h3 align="center">Hi , I'm Nikita </a> 
 <h3 align="center">Data Science student from Russia 🇷🇺</h3>
 </div>
 <div id="badges" align="center">
@@ -35,6 +34,7 @@ My project:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=housing-price-pred-spark)](https://github.com/SolovevNS/housing-price-pred-spark )
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=car-price-predict)](https://github.com/SolovevNS/car-price-predict) )
 ---
 
 My stats:
