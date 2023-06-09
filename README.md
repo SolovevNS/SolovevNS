@@ -34,7 +34,7 @@ My project:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=housing-price-pred-spark)](https://github.com/SolovevNS/housing-price-pred-spark )
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=car-price-predict)](https://github.com/SolovevNS/car-price-predict) )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=car-price-predict)](https://github.com/SolovevNS/car-price-predict) 
 ---
 
 My stats:
