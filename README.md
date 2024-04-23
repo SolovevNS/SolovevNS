@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi , I'm Nikita </a> 
-<h3 align="center">Data Science student from Russia 🇷🇺</h3>
+<h3 align="center">Data Science from Russia 🇷🇺</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/NikitaSoloveoff">
