@@ -33,9 +33,7 @@ Languages and Tools :
 
 My project:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=predict-for-oil-production)](https://github.com/SolovevNS/predict-for-oil-production)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction)](https://github.com/SolovevNS/Property-price-prediction))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction)](https://github.com/SolovevNS/Property-price-prediction)
 
 
 My stats:
