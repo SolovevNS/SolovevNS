@@ -33,7 +33,7 @@ Languages and Tools :
 
 My project:
 
-<div id="badges" style="margin-bottom: 20px;">
+<div id="badges" style="margin-bottom: 200px;">
   <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
     <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 400px; height: 130px;"/>
   </a>
