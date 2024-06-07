@@ -41,7 +41,6 @@ My project:
   </a>
 </div>
 
-________________________________________________________________________________________________________________________________________________________________________________________
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Movie-Classification-app)](https://github.com/SolovevNS/Movie-Classification-app/tree/JupiterAndFiles)
