@@ -35,10 +35,9 @@ My project:
 
 <div id="badges">
   <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
-    <img src="https://img.shields.io/badge/Movie_Class_App-white?style=for-the-badge&labelColor=orange&color=white" alt="MCApp" style="width: 2000px; height: 500px;"/>
+    <img src="https://img.shields.io/badge/Movie_Class_App-orange?style=for-the-badge&labelColor=white&color=white" alt="MCApp" style="transform: scale(50);"/>
   </a>
 </div>
-
 
 
 
