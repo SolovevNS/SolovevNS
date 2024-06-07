@@ -35,10 +35,9 @@ My project:
 
 <div id="badges">
   <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
-    <img src="https://img.shields.io/badge/Movie_Class_App-orange?style=for-the-badge&labelColor=white&color=white" alt="MCApp" style="transform: scale(50);"/>
+    <img src="https://img.shields.io/badge/Movie%20Class%20App-white?style=for-the-badge&labelColor=orange" alt="MCApp" style="transform: scale(50);"/>
   </a>
 </div>
-
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction)](https://github.com/SolovevNS/Property-price-prediction)
