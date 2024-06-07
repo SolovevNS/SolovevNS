@@ -43,7 +43,7 @@ My project:
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Movie-Classification-app)](https://github.com/SolovevNS/Movie-Classification-app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification)](https://github.com/SolovevNS/movies-classification)
 
 
 
