@@ -34,9 +34,8 @@ Languages and Tools :
 My project:
 
 <div id="badges">
-
   <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
-    <img src="https://img.shields.io/badge/red?style=for-the-badge&logoColor=white" alt="MCApp"/>
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logoColor=white" alt="MCApp"/>
   </a>
 
 </div>
