@@ -33,6 +33,14 @@ Languages and Tools :
 
 My project:
 
+<div id="badges">
+
+  <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logoColor=white" alt="MCApp"/>
+  </a>
+
+</div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction)](https://github.com/SolovevNS/Property-price-prediction)
 
 
