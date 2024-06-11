@@ -44,7 +44,7 @@ My project:
   </a>
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification)](https://github.com/SolovevNS/movies-classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification'rk')](https://github.com/SolovevNS/movies-classification)
 
 
 
