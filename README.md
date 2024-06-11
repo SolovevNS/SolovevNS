@@ -6,6 +6,9 @@
   <a href="https://t.me/NikitaSoloveoff">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/nikita-solovev-952a57249/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
 </div>
 <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=SolovevNS&style=flat-square&color=blue" alt=""/>
