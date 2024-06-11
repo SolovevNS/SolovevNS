@@ -51,6 +51,14 @@ My project:
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction)](https://github.com/SolovevNS/Property-price-prediction)
+
+
+
+
+
+
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP)](https://github.com/SolovevNS/Educational-projects-YaP)
 
