@@ -79,4 +79,7 @@ My stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolovevNS&theme=sea)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
