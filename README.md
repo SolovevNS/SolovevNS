@@ -59,7 +59,7 @@ My project:
   </a>
 
   <a href="https://github.com/SolovevNS/Educational-projects-YaP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP&card_width=600" alt="Readme Card" style="width: 1000px; height: 130px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP&card_width=600" alt="Readme Card" style="width: 10000px; height: 130px;" />
   </a>
 
   <p>Мои статистические данные:</p>
