@@ -4,7 +4,8 @@
 
 
   
-<h3 align="center">About me</a> I am enthusiastic about untangling and analyzing even the most complex data. I can make it beautiful with Plotly and build full-circle pipelines for preprocessing. In classic ML, I like to experiment with models and look for the best solution. Now, I am diving deeper into deep learning 🤿 
+<h3 align="center">About me:</a> <h3 align="center" style="font-size: 6px;">I am enthusiastic about untangling and analyzing even the most complex data. I can make it beautiful with Plotly and build full-circle pipelines for preprocessing. In classic ML, I like to experiment with models and look for the best solution. Now, I am diving deeper into deep learning 🤿 </h3>
+ 
 
 </div>
 <div id="badges" align="center">
