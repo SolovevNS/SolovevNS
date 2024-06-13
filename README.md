@@ -6,7 +6,7 @@
 
   
 I am enthusiastic about untangling and analyzing even the most complex data. I can make it beautiful with Plotly and build full-circle pipelines for preprocessing. In classic ML, I like to experiment with models and look for the best solution. Now, I am diving deeper into deep learning 🤿 
-</div>
+
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/NikitaSoloveoff">
