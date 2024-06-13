@@ -46,34 +46,34 @@ My project:
 <div align="center">
   <div id="badges" class="spaced-element">
     <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
-      <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 400px; height: 130px;"/>
+      <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 600px; height: 195px;"/>
     </a>
   </div>
 
   <a href="https://github.com/SolovevNS/movies-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification&card_width=400" alt="Readme Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification" alt="Readme Card" style="width: 600px;" />
   </a>
 
   <a href="https://github.com/SolovevNS/Property-price-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction&card_width=400" alt="Readme Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction" alt="Readme Card" style="width: 600px;" />
   </a>
 
   <a href="https://github.com/SolovevNS/Educational-projects-YaP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP&card_width=400" alt="Readme Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP" alt="Readme Card" style="width: 600px;" />
   </a>
 
   <p>My stats:</p>
 
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea&card_width=400" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea" alt="GitHub Streak" style="width: 600px;" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&card_width=400&layout=compact&theme=blue" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&layout=compact&theme=blue" alt="Top Langs" style="width: 600px;" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SolovevNS&theme=sea&card_width=400" alt="Anurag's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SolovevNS&theme=sea" alt="Anurag's GitHub stats" style="width: 600px;" />
   </a>
 </div>
 
