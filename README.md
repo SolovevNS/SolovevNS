@@ -44,40 +44,27 @@ Languages and Tools :
 My project:
 
 
+<div align="center">
+  <div id="badges" class="spaced-element">
+    <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
+      <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 400px; height: 130px;"/>
+    </a>
+  </div>
 
-<div id="badges" class="spaced-element">
-  <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
-    <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 400px; height: 130px;"/>
-  </a>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification)](https://github.com/SolovevNS/movies-classification)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction)](https://github.com/SolovevNS/Property-price-prediction)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP)](https://github.com/SolovevNS/Educational-projects-YaP)
+
+  My stats:
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&card_width=500px&layout=compact&theme=blue)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolovevNS&theme=sea)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification)](https://github.com/SolovevNS/movies-classification)
-
-
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction)](https://github.com/SolovevNS/Property-price-prediction)
-
-
-
-
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP)](https://github.com/SolovevNS/Educational-projects-YaP)
-
-
-
-My stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SolovevNS&card_width=500px&layout=compact&theme=blue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolovevNS&theme=sea)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
