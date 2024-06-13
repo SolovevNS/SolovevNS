@@ -46,7 +46,7 @@ My project:
 <div align="center">
   <div id="badges" class="spaced-element">
     <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
-      <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 600px; height: 130px;"/>
+      <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 1000px; height: 130px;"/>
     </a>
   </div>
 
