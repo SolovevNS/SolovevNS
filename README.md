@@ -5,7 +5,7 @@ beginner Data Scientist from Russia, actively searching for interesting work.</a
 
 
   
-<h5 align="center">About me: I am enthusiastic about untangling and analyzing even the most complex data. I can make it beautiful with Plotly and build full-circle pipelines for preprocessing. In classic ML, I like to experiment with models and look for the best solution. Now, I am diving deeper into deep learning 🤿 </h5>
+<h4 align="center">About me: I am enthusiastic about untangling and analyzing even the most complex data. I can make it beautiful with Plotly and build full-circle pipelines for preprocessing. In classic ML, I like to experiment with models and look for the best solution. Now, I am diving deeper into deep learning 🤿 </h4>
  
 
 </div>
