@@ -1,6 +1,6 @@
 
 <h3 align="center">Hi , I'm Nikita</a> 
-<h3 align="center">beginner Data Scientist from Russia, actively searching for interesting work.</a> 
+beginner Data Scientist from Russia, actively searching for interesting work.</a> 
 
 
   
