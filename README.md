@@ -46,7 +46,7 @@ My project:
 <div align="center">
   <div id="badges" class="spaced-element">
     <a href="https://movie-classification-app-x7fpwr7gsebw3yh4ow8ooh.streamlit.app/">
-      <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 600px; height: 195px;"/>
+      <img src="https://img.shields.io/badge/Movie%20Class%20App-orange?style=for-the-badge&labelColor=white&color=orange" alt="MCApp" style="width: 600px;"/>
     </a>
   </div>
 
@@ -62,7 +62,7 @@ My project:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP" alt="Readme Card" style="width: 600px;" />
   </a>
 
-  <p>My stats:</p>
+  <p>Мои статистические данные:</p>
 
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea" alt="GitHub Streak" style="width: 600px;" />
