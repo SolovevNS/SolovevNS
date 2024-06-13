@@ -49,6 +49,9 @@ My project:
   </a>
 </div>
 
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification)](https://github.com/SolovevNS/movies-classification)
 
 
