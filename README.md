@@ -1,6 +1,7 @@
 
 <h3 align="center">Hi , I'm Nikita</a> 
-<h3 align="center">About Me: I am a beginner Data Scientist from Russia, actively searching for interesting work. I am enthusiastic about untangling and analyzing even the most complex data. I can make it beautiful with Plotly and build full-circle pipelines for preprocessing. In classic ML, I like to experiment with models and look for the best solution. Now, I am diving deeper into deep learning 🤿 </h3>
+  
+<h3 align="center">I am a beginner Data Scientist from Russia, actively searching for interesting work. I am enthusiastic about untangling and analyzing even the most complex data. I can make it beautiful with Plotly and build full-circle pipelines for preprocessing. In classic ML, I like to experiment with models and look for the best solution. Now, I am diving deeper into deep learning 🤿 </h3>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/NikitaSoloveoff">
