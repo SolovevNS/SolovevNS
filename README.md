@@ -62,7 +62,7 @@ My project:
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP&card_width=600" alt="Readme Card" ;" />
   </a>
 
-  <p>Мои статистические данные:</p>
+  Мои статистические данные:
 
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=SolovevNS&theme=sea&card_width=600" alt="GitHub Streak" ;" />
