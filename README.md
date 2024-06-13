@@ -51,15 +51,15 @@ My project:
   </div>
 
   <a href="https://github.com/SolovevNS/movies-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification&card_width=600" alt="Readme Card" style="width: 600px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=movies-classification&card_width=600" alt="Readme Card" style="width: 1000px; height: 130px;" />
   </a>
 
   <a href="https://github.com/SolovevNS/Property-price-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction&card_width=600" alt="Readme Card" style="width: 600px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Property-price-prediction&card_width=600" alt="Readme Card" style="width: 1000px; height: 130px;" />
   </a>
 
   <a href="https://github.com/SolovevNS/Educational-projects-YaP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP&card_width=600" alt="Readme Card" style="width: 600px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Educational-projects-YaP&card_width=600" alt="Readme Card" style="width: 1000px; height: 130px;" />
   </a>
 
   <p>Мои статистические данные:</p>
