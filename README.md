@@ -59,7 +59,7 @@ My project:
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Kaggle-Competitions)](https://github.com/SolovevNS/KaggleCompetitions/PropertyPricePred)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SolovevNS&repo=Kaggle-Competitions)](https://github.com/SolovevNS/KaggleCompetitions)
 
 
 
