@@ -49,6 +49,12 @@ My project:
   </a>
 </div>
 
+<div id="badges" class="spaced-element">
+  <a href="https://pet-projects-jd8itcgzxe8rqfm4he8hqj.streamlit.app/">
+    <img src="https://img.shields.io/badge/Pet%20Projects-blue?style=for-the-badge&labelColor=white&color=blue" alt="Pet Projects" style="width: 400px; height: 130px;"/>
+  </a>
+</div>
+
 
 
 
